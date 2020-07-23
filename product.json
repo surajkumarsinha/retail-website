@@ -1,0 +1,82 @@
+{
+    "items" : [
+
+        {
+            "id":"1",
+            "details" : "HP Laptop",
+            "url" : "./images/p1.jpeg",
+            "price" : "120"
+        },
+
+        {
+            "id":"2",
+            "details" : "Mac Book Pro",
+            "url" : "./images/p2.jpg",
+            "price" : "200"
+        },
+
+        {
+            "id":"3",
+            "details" : "Desktop",
+            "url" : "./images/p3.jpeg",
+            "price" : "100"
+        },
+
+        {
+            "id":"4",
+            "details" : "Mobile Phones",
+            "url" : "./images/p4.jpeg",
+            "price" : "60"
+        },
+
+        {
+            "id":"5",
+            "details" : "Tablet",
+            "url" : "./images/p5.jpeg",
+            "price" : "120"
+        },
+
+        {
+            "id":"6",
+            "details" : "Earphones",
+            "url" : "./images/p6.jpeg",
+            "price" : "30"
+        },
+
+        {
+            "id":"7",
+            "details" : "Headphones",
+            "url" : "./images/p7.jpeg",
+            "price" : "50"
+        },
+
+        {
+            "id":"8",
+            "details" : "Camera",
+            "url" : "./images/p8.jpeg",
+            "price" : "150"
+        },
+
+        {
+            "id":"9",
+            "details" : "Router",
+            "url" : "./images/p9.jpg",
+            "price" : "20"
+        },
+
+        {
+            "id":"10",
+            "details" : "Keyboard",
+            "url" : "./images/p10.jpeg",
+            "price" : "30"
+        },
+
+        {
+            "id":"11",
+            "details" : "Television",
+            "url" : "./images/p11.jpeg",
+            "price" : "120"
+        }
+
+    ]
+}
